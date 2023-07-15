@@ -57,7 +57,7 @@ navLinks.forEach(links => {
 
     /*============ typed js ==========*/
     const typed = new Typed('.multiple-text',{
-strings: ['Software Engineer', 'Youtuber', 'Problem Solver'],
+strings: ['Software Engineer', 'Youtuber', 'Problem Solver', 'Digital Marketer'],
 typeSpeed: 100,
 backSpeed:100,
 backDelay: 1000,
